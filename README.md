@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![](https://demo-bg.reactioncrm.com/branding/green100.png)
+
 ![](https://komarev.com/ghpvc/?username=OmegaSkiller&style=flat)
 
 [![Langs & Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,md,materialui,mysql,postgres,php,py,wordpress&theme=dark)](https://skillicons.dev)
