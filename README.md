@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=OmegaSkiller&base=1000&style=flat)
 
-[![Langs & Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,md.materialui,mysql,postgres,php,py,wordpress&theme=dark)](https://skillicons.dev)
+[![Langs & Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,md,materialui,mysql,postgres,php,py,wordpress&theme=dark)](https://skillicons.dev)
 
 
 [![Editors](https://skillicons.dev/icons?i=atom,idea,phpstorm,vscode,webstorm&theme=dark)](https://skillicons.dev)
