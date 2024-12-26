@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![ReactionCRM](https://demo-bg.reactioncrm.com/branding/green100.png)](https://reactioncrm.com)
+
 ![](https://komarev.com/ghpvc/?username=OmegaSkiller&style=flat)
 
 [![Langs & Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,md,materialui,mysql,postgres,php,py,wordpress&theme=dark)](https://skillicons.dev)
-
 
 [![Editors](https://skillicons.dev/icons?i=atom,idea,phpstorm,vscode,webstorm&theme=dark)](https://skillicons.dev)
 
